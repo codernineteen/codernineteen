@@ -1,4 +1,4 @@
-<div style="height:300px; margin-bottom: 100px;">
+<div align=center>
   <h1 align=center>Codernineteen</h1>
 </div>
 
