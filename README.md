@@ -4,13 +4,10 @@ I like watching tech-youtube channel, reading business books ( + working out🦾
 I've been programming almost one year, but i'm still newbie and there is a lot of things which i need to learn🐣
 Pls feel free to give me feedback!😉
 
-
+<br>
 
 <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
-
 <br>
-<br>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
