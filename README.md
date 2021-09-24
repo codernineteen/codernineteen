@@ -1,8 +1,11 @@
 <strong>👻Welcome to my github!</strong>
 <br>
-I'm an undergraduate student who want to be an entrepreneur like Steve Jobs. 
+I'm an undergraduate student who want to be an entrepreneur like Steve Jobs.
+<br>
 I like watching tech-youtube channel, reading business books ( + working out🦾)
+<br>
 I've been programming almost one year, but i'm still newbie and there is a lot of things which i need to learn🐣
+<br>
 Pls feel free to give me feedback!😉
 
 <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
