@@ -6,8 +6,7 @@ Pls feel free to give me feedback!😉
 
 
 
-<img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/>
-<strong>Skills</strong>
+<img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
 
 <br>
 <br>
@@ -16,7 +15,7 @@ Pls feel free to give me feedback!😉
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
-)
+
 
 <br>
 <br>
