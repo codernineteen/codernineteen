@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Codernineteen</h1>
 
-<!--
-**codernineteen/codernineteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.icons8.com/cotton/64/000000/laptop-coding.png"/><h2>What i learned && What i can use</h2>
 
-Here are some ideas to get you started:
+<div align=center>
+  <img src="https://img.shields.io/badge/HTML5-E34F26??style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>&nbsp
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codernineteen&show_icons=true&theme=radical)
