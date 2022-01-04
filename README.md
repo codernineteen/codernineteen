@@ -16,6 +16,7 @@ Pls feel free to give me feedback!😉
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-NodeJs-68A063?style=for-the-badge&logo=node&logoColor=white"/></a>
 
 
 <br>
