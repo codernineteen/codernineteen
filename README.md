@@ -1,12 +1,7 @@
-<strong>👻Welcome to my github!</strong>
 <br>
-I'm an undergraduate student who want to be an entrepreneur like Steve Jobs.
+21 y/o
 <br>
-I like watching tech-youtube channel, reading business books ( + working out🦾)
-<br>
-I've been programming almost one year, but i'm still newbie and there is a lot of things which i need to learn🐣
-<br>
-Pls feel free to give me feedback!😉
+Currently, I'm deep diving into Ethereum world because i'm really impressed by decentralization philosophy
 
 <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
 <br>
