@@ -1,7 +1,8 @@
 <br>
 21 y/o
 <br>
-Currently, I'm deep diving into Ethereum world because i'm really impressed by decentralization philosophy
+Blockchain will change the world.
+Rust is so cool.
 
 <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
 <br>
@@ -11,7 +12,7 @@ Currently, I'm deep diving into Ethereum world because i'm really impressed by d
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-NodeJs-68A063?style=for-the-badge&logo=node&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge"/></a>
 
 <br>
 <br>
