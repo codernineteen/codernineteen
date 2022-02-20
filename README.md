@@ -1,8 +1,6 @@
 <br>
 21 y/o
 <br>
-The world needs blockchain.
-Rust is so cool.
 
 <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
 <br>
