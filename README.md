@@ -9,7 +9,8 @@
 <h2>[Motto]</h2>
 <q>Keep Good Habit, Passion and training, Then Be excellent</q>
 <br>
-<img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
+
+<h2><img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/>Skills</h2>
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>
