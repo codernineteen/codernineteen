@@ -8,13 +8,7 @@
 
 <h2>[Motto]</h2>
 <q>Keep Good Habit, Passion and training, Then Be excellent</q>
-
-
-
-
-
 <br>
-
 <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/><strong>Skills</strong>
 <br>
 
