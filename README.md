@@ -2,7 +2,7 @@
 <h1>Hello, everyone. Welcome to my github :)</h1>
 <h2>[profile]</h2>
 <p>Undergraduate Student majoring in Software engineering</p>
-<p>Deep diving into Web development.</p>
+<p>Deep diving into Computer Graphics, 3d Programming, Game dev, Core of Cpp and Game engine.</p>
 <p>Biased to Backend nowadays.</p>
 <p>Love reading books and working out</P>
 
