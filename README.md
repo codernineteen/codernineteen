@@ -3,7 +3,7 @@
 <h2>[profile]</h2>
 <p>Undergraduate Student majoring in Software engineering</p>
 <p>Deep diving into Computer Graphics, 3d Programming, Game dev, Core of Cpp and Game engine.</p>
-<p>Biased to Backend nowadays.</p>
+<p>Love Both cpp and rust lang</p>
 <p>Love reading books and working out</P>
 
 <h2>[Motto]</h2>
