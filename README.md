@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-NodeJs-68A063?style=for-the-badge&logo=node&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
 
 
