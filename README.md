@@ -1,16 +1,13 @@
 <br>
 <h1>Hello, everyone. Welcome to my github :)</h1>
-<h2>[profile]</h2>
-<p>Undergraduate Student majoring in Software engineering</p>
-<p>Interested in Computer Graphics, 3d Programming, Game dev, Game engine and Web dev.</p>
-<p>Love cpp and typescript</p>
-<p>Love reading books and working out</P>
+<p>Interested in Computer Graphics, 3d Programming, Game development and Web</p>
+<p>Love Cpp, Rust and Typescript</p>
 
-<h2>[Motto]</h2>
-<q>Keep Good Habit, Passion and training, Then Be excellent</q>
+<h2>Motto</h2>
+<q>Get used to failure</q>
 <br>
 
-<h2>[Learned <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/>]</h2>
+<h2>Learned <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/></h2>
 <br>
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
