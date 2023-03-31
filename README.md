@@ -3,10 +3,6 @@
 <p>Interested in Computer Graphics, 3d Programming, Game development and Web</p>
 <p>Love Cpp, Rust and Typescript</p>
 
-<h2>Motto</h2>
-<q>Get used to failure</q>
-<br>
-
 <h2>Learned <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/></h2>
 <br>
 
