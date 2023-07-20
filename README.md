@@ -1,9 +1,10 @@
 <br>
-<h1>Hello, everyone. Welcome to my github :)</h1>
-<p>Interested in Computer Graphics, Game development and Networking</p>
-<p>Love Cpp, Rust and Typescript</p>
+<h1>
+  Codernineteen's github
+</h1>
+<p>Interested in Computer Network, Socket Programming and Game development</p>
 
-<h2>Main Tech Stack <img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/></h2>
+<h2>My main tools<img src="https://img.icons8.com/cotton/30/000000/laptop-coding.png"/></h2>
 <br>
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
